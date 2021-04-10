@@ -8,6 +8,8 @@ function App() {
     <div className="App">
       <div className="container">
         <Dictionary />
+
+        <footer>This code is open-sourced on <a href="https://github.com/zszczesna/dictionary">GitHub</a></footer>
       </div>
     </div>
   );
