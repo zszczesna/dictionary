@@ -1,6 +1,6 @@
 import React, {useState} from "react"
 import axios from "axios";
-import Results from "./Results.js"
+import Results from "./Results"
 
 export default function Dictionary(){
     let[keyword, setKeword] = useState(" ");
