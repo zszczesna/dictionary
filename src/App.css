@@ -1,0 +1,14 @@
+body {
+  /* background: #f6f6f6;*/
+  background: url("images/cool-background\ \(1\).png");
+  margin-top: 60px;
+}
+
+footer {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+footer a {
+  text-decoration: none;
+}

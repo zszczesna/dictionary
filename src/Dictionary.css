@@ -1,0 +1,32 @@
+.Dictionary h1 {
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 56px;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.Dictionary h2 {
+  margin-bottom: 30px;
+  font-size: 26px;
+}
+
+.Dictionary section {
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 6px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+  margin: 20px 70px;
+}
+
+.Dictionary input {
+  padding: 6px 2px;
+  border: 1px solid #dddddd;
+  border-radius: 6px;
+  width: 90%;
+  color: #1b2021;
+}
+
+.Dictionary .btn {
+  width: 6%;
+  margin: 0 12px 4px;
+}
