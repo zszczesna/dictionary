@@ -32,5 +32,24 @@
 }
 
 .Dictionary .btn:hover {
-  background: #f7f7f7;
+  background: #fff;
+}
+
+@media (max-width: 576px) {
+  .Dictionary section {
+    padding: 15px;
+    margin: 20px 10px;
+  }
+
+  .Dictionary h2 {
+    font-size: 18px;
+  }
+
+  .Dictionary input {
+    width: 75%;
+  }
+  .Dictionary .btn {
+    width: 15%;
+    margin: 0 12px 4px;
+  }
 }

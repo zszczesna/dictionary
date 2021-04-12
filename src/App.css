@@ -19,3 +19,9 @@ footer {
 footer a {
   text-decoration: none;
 }
+
+@media (max-width: 576px) {
+  footer {
+    font-size: 9px;
+  }
+}
