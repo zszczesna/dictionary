@@ -1,3 +1,8 @@
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 body {
   /* background: #f6f6f6;*/
   background: url("images/cool-background\ \(1\).png");
@@ -7,6 +12,8 @@ body {
 footer {
   text-align: center;
   margin-bottom: 15px;
+  font-size: 12px;
+  font-weight: 600;
 }
 
 footer a {
